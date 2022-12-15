@@ -19,12 +19,12 @@
 // }
 
 
-const atmMoney = 9000;
+// const atmMoney = 9000;
 
-const withdrawAmmount = prompt('Введите сумму для выдачи');
+// const withdrawAmmount = prompt('Введите сумму для выдачи');
 
-if (withdrawAmmount % 100 ===0 && withdrawAmmount <= 9000) {
-    console.log('Выдача денег');
-} else {
-    console.log('В банкомате нет денежных средств');
-}
+// if (withdrawAmmount % 100 ===0 && withdrawAmmount <= 9000) {
+//     console.log('Выдача денег');
+// } else {
+//     console.log('В банкомате нет денежных средств');
+// }
